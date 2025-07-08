@@ -1,0 +1,39 @@
+.about-section {
+  padding: 60px 0;
+  background: linear-gradient(to bottom, #f8fafc, #ffffff);
+  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease-in-out;
+}
+
+.about-section:hover {
+  transform: translateY(-4px);
+}
+
+.about-section h2 {
+  font-size: 2.5rem;
+  color: #1e3a8a;
+  margin-bottom: 24px;
+  font-weight: 700;
+  position: relative;
+}
+
+.about-section h2::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -8px;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 4px;
+  background: #2563eb;
+  border-radius: 2px;
+}
+
+.about-section p {
+  font-size: 1.125rem;
+  line-height: 1.8;
+  color: #334155;
+  padding: 0 1rem;
+}
