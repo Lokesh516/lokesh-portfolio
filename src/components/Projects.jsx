@@ -18,7 +18,9 @@ const Projects = () => {
     },
     {
       title: "Portfolio Website",
-      desc: "A personal portfolio to showcase my projects, skills, and contact information. Built using React and styled with CSS."
+      desc: "A personal portfolio to showcase my projects, skills, and contact information. Built using React and styled with CSS.",
+      github: "https://github.com/Lokesh516/lokesh-portfolio",
+      live: "https://lokeshg-portfolio.netlify.app"
     }
   ];
 
