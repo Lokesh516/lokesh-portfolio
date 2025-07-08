@@ -1,4 +1,4 @@
-# Lokesh Yadav – Portfolio Website
+# Lokesh Goddumarri – Portfolio Website
 
 This is my personal portfolio website built using React.js. It showcases my skills, projects, work experience, and contact information.
 
@@ -24,6 +24,6 @@ This is my personal portfolio website built using React.js. It showcases my skil
 ## 📬 Contact
 
 - Email: lokeshyadav31290@gmail.com
-- LinkedIn: [linkedin.com/in/lokesh-yadav-reactdev](https://www.linkedin.com/in/lokesh-goddumarri-8717741ab/)
+- LinkedIn: [https://www.linkedin.com/in/lokesh-goddumarri-8717741ab/](https://www.linkedin.com/in/lokesh-goddumarri-8717741ab/)
 
 
