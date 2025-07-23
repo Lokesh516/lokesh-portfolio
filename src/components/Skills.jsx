@@ -2,21 +2,25 @@ import "./Skills.css";
 
 const Skills = () => {
   const skillList = [
-    "ReactJS",
-    "React Hooks",
-    "Context API",
-    "Redux",
-    "JavaScript",
-    "HTML5 & CSS3",
-    "Tailwind CSS",
-    "RESTful APIs",
-    "Jest & React Testing Library",
-    "Azure DevOps",
-    "Git",
-    "Webpack & Babel",
-    "npm",
-    "Data Structures & Algorithms"
-  ];
+  "JavaScript",
+  "ReactJS",
+  "React Hooks",
+  "Context API",
+  "Redux",
+  "HTML5 & CSS3",
+  "Tailwind CSS",
+  "RESTful APIs",
+  "Jest & React Testing Library",
+  "Azure DevOps",
+  "Git & GitHub",
+  "Webpack & Babel",
+  "npm",
+  "SQL / MySQL",
+  "PHP",
+  "Core Java",
+  "Data Structures"
+];
+
 
   return (
     <section id="skills" className="skills-section">
